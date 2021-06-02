@@ -1,2 +1,2 @@
 # auto-pro
-An advance automation framework to test we and mobile app
+An advance automation framework to test web and mobile apps
